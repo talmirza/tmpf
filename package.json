@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/talmirza/tmpf/issues"
   },
-  "homepage": "https://github.com/talmirza/tmpf#readme"
+  "homepage": "https://github.com/talmirza/tmpf#readme",
+  "dependencies": {
+    "@tailwindcss/ui": "^0.5.0",
+    "tailwindcss": "^1.8.3"
+  }
 }
